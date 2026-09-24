@@ -1,9 +1,0 @@
-# Exact versions this project was tested with. Upgrade deliberately, then run: python -m pytest
-streamlit==1.64.0
-yfinance==1.7.0
-feedparser==6.0.14
-pandas==3.0.2
-numpy==2.4.4
-requests==2.33.1
-urllib3==2.6.3
-pytest==9.1.1
